@@ -1,4 +1,4 @@
-<!-- Animated Intro -->
+<!-- Animated Header -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aswanth+Lenin;500%2B+DSA+Problems+Solved;FAANG+Software+Engineer+in+Progress;MERN+Stack+Developer;AI+Engineering+Enthusiast;System+Design+Learner"/>
@@ -10,17 +10,17 @@
 
 💻 **Full Stack Developer | FAANG Aspirant | AI Engineering Enthusiast**
 
-Passionate about building **scalable systems**, solving **complex algorithmic problems**, and mastering **core computer science fundamentals**.
+I’m passionate about building scalable systems, solving complex algorithmic problems, and mastering core computer science fundamentals.
 
-Currently focused on becoming a **world-class software engineer capable of designing large-scale distributed systems.**
+Currently preparing for **FAANG-level software engineering roles** while building real-world projects and deepening my knowledge of **system design and distributed systems**.
 
 ---
 
-# 🧠 FAANG Preparation Journey
+# 🧠 FAANG Preparation
 
 🔥 **500+ Data Structures & Algorithms Problems Solved**
 
-Actively studying:
+Core areas I focus on:
 
 * Data Structures & Algorithms
 * System Design
@@ -29,7 +29,7 @@ Actively studying:
 * Database Management Systems
 * AI Engineering
 
-These are the **core fundamentals required for FAANG-level engineering roles.**
+These fundamentals allow me to design **efficient, scalable, and production-ready systems**.
 
 ---
 
@@ -78,7 +78,7 @@ These are the **core fundamentals required for FAANG-level engineering roles.**
 
 ---
 
-# 🧩 Core Computer Science Knowledge
+# 🧩 Core Computer Science
 
 Strong understanding of:
 
@@ -111,10 +111,9 @@ Features:
 
 ## 📊 Local Business Dashboard
 
-Analytics dashboard providing business insights.
+Analytics dashboard providing insights for businesses.
 
 Tech:
-
 React + Node.js
 
 Features:
@@ -127,10 +126,9 @@ Features:
 
 ## 🔗 EigenLayer Restaking API
 
-Backend API exposing validator and restaker information.
+Backend API exposing validator and restaker data.
 
 Tech:
-
 Node.js + Express
 
 Features:
@@ -175,7 +173,7 @@ Features:
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -183,7 +181,7 @@ Features:
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Engineering Goals
 
 ✔ Solve **1000+ DSA Problems**
 ✔ Master **System Design**
@@ -195,11 +193,15 @@ Features:
 
 # 🤝 Connect With Me
 
-LinkedIn
+💼 LinkedIn
 https://www.linkedin.com/in/aswanthleninmanchala/
 
-Email
+📧 Email
 [aswanthleninmanchala@gmail.com](mailto:aswanthleninmanchala@gmail.com)
 
-GitHub
+💻 GitHub
 https://github.com/aswanthlenin3
+
+---
+
+⭐ If you like my projects, consider giving them a **star**.
